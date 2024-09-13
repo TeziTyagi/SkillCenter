@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Demo\\source\\repos\\SkillCenter\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{95C1BF23-054B-4DA7-96F8-42B56E8F6DFB}|SkillCenter.csproj|c:\\users\\demo\\source\\repos\\skillcenter\\views\\home\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95C1BF23-054B-4DA7-96F8-42B56E8F6DFB}|SkillCenter.csproj|solutionrelative:views\\home\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{95C1BF23-054B-4DA7-96F8-42B56E8F6DFB}|SkillCenter.csproj|c:\\users\\demo\\source\\repos\\skillcenter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{95C1BF23-054B-4DA7-96F8-42B56E8F6DFB}|SkillCenter.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +58,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "Insert.cshtml",
+              "DocumentMoniker": "C:\\Users\\Demo\\source\\repos\\SkillCenter\\Views\\Home\\Insert.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Insert.cshtml",
+              "ToolTip": "C:\\Users\\Demo\\source\\repos\\SkillCenter\\Views\\Home\\Insert.cshtml",
+              "RelativeToolTip": "Views\\Home\\Insert.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T07:21:52.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ProduDbContextctcs.cs",
               "DocumentMoniker": "C:\\Users\\Demo\\source\\repos\\SkillCenter\\DatabaseContext\\ProduDbContextctcs.cs",
               "RelativeDocumentMoniker": "DatabaseContext\\ProduDbContextctcs.cs",
@@ -62,12 +79,11 @@
               "RelativeToolTip": "DatabaseContext\\ProduDbContextctcs.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T08:06:22.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T08:06:22.235Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Demo\\source\\repos\\SkillCenter\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -75,12 +91,11 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAxwBMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T06:30:58.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T06:30:58.82Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Demo\\source\\repos\\SkillCenter\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -88,25 +103,23 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T04:59:31.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T04:59:31.486Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SkillCenter",
+              "DocumentIndex": 7,
+              "Title": "SkillCenter.csproj",
               "DocumentMoniker": "C:\\Users\\Demo\\source\\repos\\SkillCenter\\SkillCenter.csproj",
               "RelativeDocumentMoniker": "SkillCenter.csproj",
               "ToolTip": "C:\\Users\\Demo\\source\\repos\\SkillCenter\\SkillCenter.csproj",
               "RelativeToolTip": "SkillCenter.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-12T08:01:02.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T08:01:02.246Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Product.cshtml",
               "DocumentMoniker": "C:\\Users\\Demo\\source\\repos\\SkillCenter\\Views\\Home\\Product.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Product.cshtml",
@@ -114,12 +127,11 @@
               "RelativeToolTip": "Views\\Home\\Product.cshtml",
               "ViewState": "AQIAAA0AAAAAAAAAAAAwwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-12T06:38:11.077Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T06:38:11.077Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MyModel.cs",
               "DocumentMoniker": "C:\\Users\\Demo\\source\\repos\\SkillCenter\\Models\\MyModel.cs",
               "RelativeDocumentMoniker": "Models\\MyModel.cs",
@@ -127,18 +139,17 @@
               "RelativeToolTip": "Models\\MyModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T06:27:47.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T06:27:47.3Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Demo\\source\\repos\\SkillCenter\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\Demo\\source\\repos\\SkillCenter\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-09-12T04:59:17.963Z",
               "EditorCaption": ""
