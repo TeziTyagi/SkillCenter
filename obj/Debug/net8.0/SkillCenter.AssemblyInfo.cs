@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SkillCenter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee2d6de6306fafdbee770856c0aba038b210944c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d0f54b106c3c2039201001726089469e8fae7f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("SkillCenter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SkillCenter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
